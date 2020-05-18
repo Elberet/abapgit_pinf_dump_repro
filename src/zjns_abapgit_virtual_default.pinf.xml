@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PINF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PINF>
+    <ATTRIBUTES>
+     <INTF_NAME>ZJNS_ABAPGIT_VIRTUAL_DEFAULT</INTF_NAME>
+     <DESCRIPT>Virtuelle Standard-Paketschnittstelle</DESCRIPT>
+     <DEFAULT_IF>X</DEFAULT_IF>
+    </ATTRIBUTES>
+   </PINF>
+  </asx:values>
+ </asx:abap>
+</abapGit>
